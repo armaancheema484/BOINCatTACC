@@ -6,7 +6,7 @@
 ############
 
 
-FROM python:3.6-alpine
+FROM python:3.12.0rc1-alpine
 
 ENV GPU="0"
 ENV np="4"
