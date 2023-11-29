@@ -5,7 +5,7 @@
 # Not designed for front-end interfaces
 #########################
 
-FROM python:3.6-alpine
+FROM python:3.8.18-alpine
 
 
 # Copies the necessary files
