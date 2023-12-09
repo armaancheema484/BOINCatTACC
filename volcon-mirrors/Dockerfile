@@ -6,7 +6,7 @@
 ############
 
 
-FROM python:3.6-alpine
+FROM python:3.13.0a1-alpine
 
 
 COPY mirror.sh /mirror/mirror
